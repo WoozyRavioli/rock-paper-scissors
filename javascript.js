@@ -8,6 +8,5 @@ function getComputerChoice() {
         case choice == 2:
             return "Scissors";
     }
-
-
 }
+
